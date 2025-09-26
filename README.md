@@ -50,6 +50,6 @@ All books are freely available under Creative Commons or similar licenses. Contr
 ## ✨ Curated by
 
 Zaid Kamil  
-Training Manager, Mohan Babu University  
+Mohan Babu University  
 Empowering students through technical education and joyful learning.
 
